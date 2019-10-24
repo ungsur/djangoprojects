@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"User",
+				"UserCreationForm\tmodule"
+			],
+			[
+				"try",
+				"try\tTry/Except/Else/Finally"
+			],
+			[
+				"creat",
+				"created_at"
+			],
+			[
+				"amout",
+				"amount_of_crackers"
+			],
+			[
+				"cheese_",
+				"cheese_and_crackers"
+			],
+			[
+				"a",
+				"amount_of_crackers"
+			],
+			[
+				"amou",
+				"amount_of_cheese"
+			],
+			[
+				"boxes",
+				"boxes_of_crackers"
+			],
+			[
+				"sm_",
+				"sm_mesosphere"
+			],
+			[
+				"td-agent",
+				"td-agent"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"ar",
+				"ar"
+			],
+			[
+				"coef",
+				"Coefficients"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rungsunan/code/djangoprojects/django_project",
+		"/Users/rungsunan/code/djangoprojects/django_project/blog",
+		"/Users/rungsunan/code/djangoprojects/django_project/blog/templates",
+		"/Users/rungsunan/code/djangoprojects/django_project/blog/templates/blog",
+		"/Users/rungsunan/code/djangoprojects/django_project/django_project",
+		"/Users/rungsunan/code/djangoprojects/django_project/media",
+		"/Users/rungsunan/code/djangoprojects/django_project/media/profile_pics",
+		"/Users/rungsunan/code/djangoprojects/django_project/users",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/__pycache__",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/migrations"
+	],
+	"file_history":
+	[
+		"/Users/rungsunan/code/tracer/tracerReport.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/forms.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/templates/users/profile.html",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/views.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/django_project/settings.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/models.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/blog/templates/blog/home.html",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/apps.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/signals.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/admin.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/django_project/urls.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/blog/templates/blog/base.html",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/templates/users/login.html",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/templates/users/logout.html",
+		"/Users/rungsunan/code/djangoprojects/django_project/users/templates/users/register.html",
+		"/Users/rungsunan/code/djangoprojects/django_project/blog/urls.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/blog/models.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/blog/views.py",
+		"/Users/rungsunan/code/djangoprojects/django_project/blog/admin.py",
+		"/Users/rungsunan/code/tracer/tracerSoln/tracerReport.py",
+		"/Users/rungsunan/code/craigslistzipscraper/craigslistzip.py",
+		"/Users/rungsunan/code/vigilantweb/deco.py",
+		"/Users/rungsunan/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/rungsunan/code/tracer/tracerSoln/tracerReport.",
+		"/Users/rungsunan/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/rungsunan/code/mediaquire/etl-csv.xml",
+		"/Users/rungsunan/code/mediaquire/etl.xml",
+		"/Users/rungsunan/scriptella-1.1/bugs-out-filtered.csv",
+		"/Users/rungsunan/scriptella-1.1/bugs-out.csv",
+		"/Users/rungsunan/scriptella-1.1/etl.xml",
+		"/Volumes/files/dump/hdBACKUP/cap1",
+		"/Volumes/files/dump/vrave",
+		"/Users/rungsunan/code/openaccess/cs224d-hw1/assignment1.pdf",
+		"/Users/rungsunan/code/assignment1/cs231n/data_utils.py",
+		"/Users/rungsunan/code/scrapyproj/conifers/conifers/spiders/conifers-spyder-json.py",
+		"/Users/rungsunan/code/Linear_regression_in_Keras/utils.py",
+		"/Users/rungsunan/mpiproject/MPI.py",
+		"/Users/rungsunan/mpiproject/trapParallel_1.py",
+		"/Users/rungsunan/Downloads/data.txt",
+		"/Users/rungsunan/code/courses/deeplearning1/nbs/vgg16.py",
+		"/Users/rungsunan/code/courses/deeplearning1/nbs/utils.py",
+		"/Users/rungsunan/code/courses/deeplearning1/nbs/vgg16.pyc",
+		"/Users/rungsunan/code/lab/README.md",
+		"/Users/rungsunan/code/ML-From-Scratch/unsupervised_learning/principal_component_analysis.py",
+		"/Users/rungsunan/Downloads/multipaul.py",
+		"/Users/rungsunan/Downloads/nyc.0001",
+		"/Users/rungsunan/Downloads/train.h5",
+		"/Users/rungsunan/Downloads/SAT(1) (1).py",
+		"/Users/rungsunan/code/finalpythonproject/pythonproject.py",
+		"/Users/rungsunan/code/proj3c",
+		"/Users/rungsunan/code/finalpythonproject/README.md",
+		"/Users/rungsunan/Downloads/yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_business.json",
+		"/Users/rungsunan/spyder/yelpproject/10000_yelp_academic_dataset_review.json",
+		"/Users/rungsunan/Downloads/yelp_dataset_challenge_academic_dataset/100_yelp_academic_dataset_review.json",
+		"/Users/rungsunan/Downloads/yelp_dataset_challenge_academic_dataset/100_yelp_academic_dataset_business.json",
+		"/Users/rungsunan/Downloads/yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_review.json",
+		"/Users/rungsunan/spyder/yelpproject/review_dict.json",
+		"/Users/rungsunan/spyder/yelpproject/asian_dict.json",
+		"/Users/rungsunan/spyder/yelpproject/res_dict.json",
+		"/Users/rungsunan/spyder/musicpod/musicpod.py",
+		"/Users/rungsunan/sashw3.sas",
+		"/catproj2",
+		"/Users/rungsunan/Downloads/nyc.9912",
+		"/Users/rungsunan/Downloads/nyc.0105",
+		"/Users/rungsunan/Downloads/code_data/plotfuns.R",
+		"/stature.sas",
+		"/Users/rungsunan/Downloads/RichardUngsunanL5.py",
+		"/Users/rungsunan/spyder/L4/RichardUngsunanL4.py",
+		"/Users/rungsunan/Downloads/RichardUngsunanL4.py",
+		"/Users/rungsunan/Downloads/advdata.R",
+		"/Users/rungsunan/Downloads/classification_cv.R",
+		"/Users/rungsunan/Downloads/advdatamining",
+		"/Users/rungsunan/Downloads/Untitled (1).R",
+		"/Users/rungsunan/Downloads/RichardUngsunanL3.py",
+		"/Users/rungsunan/spyder/L3/RichardUngsunanL3.py",
+		"/Users/rungsunan/Downloads/airline_delays.csv",
+		"/Users/rungsunan/Downloads/pythonclass/L3/RichardUngsunanL3.py",
+		"/Users/rungsunan/Downloads/yelp_dataset_challenge_academic_dataset/README.md",
+		"/Users/rungsunan/Downloads/output.txt",
+		"/Users/rungsunan/Desktop/programmingforanalytics.notes",
+		"/Users/rungsunan/spyder/a4/RichardUngsunanA4.py",
+		"/Users/rungsunan/Documents/categoricalhw1final",
+		"/Users/rungsunan/Documents/categoricalhw1.sas",
+		"/Users/rungsunan/Downloads/yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_checkin.json",
+		"/Users/rungsunan/Documents/Assignment1_adv_data",
+		"/Users/rungsunan/Downloads/yelp-restaurant-photo-classification-data/train_photo_to_biz_ids.csv",
+		"/Users/rungsunan/Downloads/yelp-restaurant-photo-classification-data/train.csv",
+		"/Applications/IBM/SPSS/Statistics/24/Python3/LICENSE",
+		"/Users/rungsunan/Downloads/1-getting-started.md",
+		"/Users/rungsunan/Downloads/Final_project_rich.sas",
+		"/Users/rungsunan/Downloads/MM/hw/allcode",
+		"/Users/rungsunan/sparemin/scoo/sm_mesosphere/cookbooks/Berksfile",
+		"/Users/rungsunan/sparemin/scoo/sm_mesosphere/cookbooks/Vagrantfile",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/templates/default/td-agent_collector.conf.erb",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/recipes/install_collector.rb",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/recipes/install_gateway_forwarder.rb",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/Vagrantfile",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/templates/default/td-agent_gateway_forwarder.conf.erb",
+		"/Users/rungsunan/sparemin/scdo/services/data_bags/services/services_info_stg1.json",
+		"/Users/rungsunan/sparemin/scdo/services/data_bags/services/services_info_dev1.json",
+		"/Users/rungsunan/sparemin/scdo/services/data_bags/services/services_info_prd.json",
+		"/Users/rungsunan/sparemin/scoo/sm_mesosphere/cookbooks/.e",
+		"/Users/rungsunan/Downloads/multivariate_analysis/EX8-4-1.SAS",
+		"/Users/rungsunan/Downloads/MM/T6_17_FISH.DAT",
+		"/Users/rungsunan/code/nobel.rb",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/metadata.rb",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/files/default/td.repo",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/recipes/fluentd_install.rb",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/templates/default/td-agent.conf.erb",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/attributes/default.rb",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/Berksfile",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/Berksfile.lock",
+		"/Users/rungsunan/sparemin/scoo/sm_fluentd/cookbooks/templates/default/td-agent.erb",
+		"/Users/rungsunan/sparemin/scoo/sm_mesosphere/cookbooks/metadata.rb",
+		"/Users/rungsunan/Documents/marathon_recording_create.json",
+		"/Users/rungsunan/Documents/marathon_user_create.json",
+		"/Users/rungsunan/sparemin/scoo/sm_mesosphere/cookbooks/templates/default/resources.erb",
+		"/private/tmp/route53createEntry.json",
+		"/Users/rungsunan/sparemin/scdo/users/data_bags/docker/docker_auth.json",
+		"/Users/rungsunan/sparemin/scdo/users/data_bags/docker/docker_auth_ecr.json",
+		"/Users/rungsunan/sparemin/scoo/sm_mesosphere/cookbooks/recipes/haproxy_marathon_bridge.rb",
+		"/Users/rungsunan/sparemin/scoo/sm_base/cookbooks/recipes/configure_selinux.rb",
+		"/Users/rungsunan/sparemin/scoo/sm_base/cookbooks/Berksfile",
+		"/Users/rungsunan/sparemin/scoo/sm_base/cookbooks/Berksfile.lock",
+		"/Users/rungsunan/sparemin/scoo/sm_base/cookbooks/recipes/install_newrelic.rb",
+		"/Users/rungsunan/sparemin/scoo/sm_base/cookbooks/attributes/default.rb",
+		"/Users/rungsunan/sparemin/scoo/sm_base/cookbooks/Vagrantfile",
+		"/Users/rungsunan/sparemin/scoo/sm_base/cookbooks/test/integration/configure_selinux/serverspec/default_spec.rb"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 108.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 108.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 79.0
+	},
+	"pinned_build_system": "",
+	"project": "django_project.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
